@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				131,
+				80
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				35,
+				160
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				107,
+				-59
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				215,
+				39
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				18,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "math",
+			"loop": false,
+			"name": "math"
+		},
+		{
+			"offsets": [
+				20,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "good",
+			"loop": false,
+			"name": "good"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "da schoolhouse/sprites/baldihappy",
+	"position": [
+		-60,
+		-20
+	],
+	"healthicon": "baldi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		221,
+		59
+	],
+	"camera_position": [
+		-140,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baldi.png"><SubTexture name="baldi down0000" x="507" y="864" width="131" height="171" frameX="-82" frameY="-174" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi down0001" x="378" y="864" width="129" height="178" frameX="-82" frameY="-167" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi down0002" x="250" y="864" width="128" height="185" frameX="-82" frameY="-159" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi down0003" x="124" y="864" width="126" height="191" frameX="-82" frameY="-152" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi down0004" x="0" y="864" width="124" height="196" frameX="-82" frameY="-145" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi idle0000" x="0" y="604" width="125" height="260" frameX="-113" frameY="-143" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi idle0001" x="520" y="309" width="114" height="265" frameX="-114" frameY="-139" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi idle0002" x="417" y="309" width="103" height="268" frameX="-114" frameY="-136" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi idle0003" x="314" y="309" width="103" height="269" frameX="-113" frameY="-134" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi idle0004" x="210" y="309" width="104" height="270" frameX="-112" frameY="-133" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi left0000" x="763" y="604" width="100" height="246" frameX="-99" frameY="-137" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi left0001" x="906" y="254" width="99" height="252" frameX="-102" frameY="-131" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi left0002" x="304" y="604" width="96" height="257" frameX="-105" frameY="-126" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi left0003" x="812" y="0" width="94" height="262" frameX="-108" frameY="-121" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi left0004" x="634" y="309" width="91" height="265" frameX="-111" frameY="-117" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi right0000" x="906" y="506" width="179" height="252" frameX="-80" frameY="-155" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi right0001" x="906" y="0" width="179" height="254" frameX="-75" frameY="-153" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi right0002" x="581" y="604" width="182" height="256" frameX="-66" frameY="-152" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi right0003" x="400" y="604" width="181" height="257" frameX="-60" frameY="-151" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi right0004" x="125" y="604" width="179" height="258" frameX="-54" frameY="-150" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi up0000" x="0" y="0" width="198" height="309" frameX="-23" frameY="-115" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi up0001" x="198" y="0" width="202" height="308" frameX="-26" frameY="-116" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi up0002" x="400" y="0" width="204" height="305" frameX="-30" frameY="-119" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi up0003" x="604" y="0" width="208" height="301" frameX="-34" frameY="-123" frameWidth="300" frameHeight="533" />
+<SubTexture name="baldi up0004" x="0" y="309" width="210" height="295" frameX="-39" frameY="-129" frameWidth="300" frameHeight="533" />
+</TextureAtlas>

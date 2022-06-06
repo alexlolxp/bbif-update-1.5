@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "baldi idle"
+		},
+		{
+			"offsets": [
+				-95,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "baldi right"
+		},
+		{
+			"offsets": [
+				87,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "baldi left"
+		},
+		{
+			"offsets": [
+				7,
+				-190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "baldi down"
+		},
+		{
+			"offsets": [
+				47,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "baldi up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "da schoolhouse/sprites/baldipixel",
+	"position": [
+		-10,
+		90
+	],
+	"healthicon": "baldipixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		221,
+		59
+	],
+	"camera_position": [
+		-150,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 3.1
+}

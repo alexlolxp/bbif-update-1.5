@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Basics", "baldi", [0, 221, 59]],
+		["Lesson", "baldi", [0, 221, 59]],
+		["Expulsion", "baldimad", [0, 127, 14]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

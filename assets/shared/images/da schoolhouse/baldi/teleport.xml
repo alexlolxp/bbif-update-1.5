@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="teleport.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teleport0000" x="0" y="0" width="631" height="485" frameX="-224" frameY="-222" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0001" x="669" y="0" width="692" height="566" frameX="-200" frameY="-144" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0002" x="1399" y="0" width="556" height="526" frameX="-281" frameY="-201" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0003" x="1993" y="0" width="851" height="559" frameX="-136" frameY="-170" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0004" x="2882" y="0" width="829" height="616" frameX="-117" frameY="-144" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0005" x="0" y="654" width="964" height="568" frameX="-99" frameY="-181" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0006" x="1002" y="654" width="940" height="557" frameX="-143" frameY="-174" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0007" x="1980" y="654" width="999" height="710" frameX="-36" frameY="-38" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0008" x="3017" y="654" width="1038" height="735" frameX="-116" frameY="0" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0009" x="0" y="1427" width="1095" height="636" frameX="-53" frameY="-108" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0010" x="1133" y="1427" width="1189" height="581" frameX="-95" frameY="-134" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0011" x="2360" y="1427" width="1286" height="623" frameX="0" frameY="-92" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0012" x="0" y="2101" width="1281" height="663" frameX="-25" frameY="-52" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0013" x="1319" y="2101" width="745" height="154" frameX="-191" frameY="-561" frameWidth="1306" frameHeight="760"/>
+	<SubTexture name="teleport0014" x="1319" y="2101" width="745" height="154" frameX="-191" frameY="-561" frameWidth="1306" frameHeight="760"/>
+</TextureAtlas>
